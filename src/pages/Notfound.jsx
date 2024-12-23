@@ -12,7 +12,7 @@ export default function NotFound() {
       </p>
       <button
         className="mt-6 rounded-lg bg-indigo-600 px-6 py-3 text-white hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-indigo-300"
-        onClick={() => (window.location.href = "/")}
+        onClick={() => (window.location.href = "Home")}
       >
         Go Back Home
       </button>
